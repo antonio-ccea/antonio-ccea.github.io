@@ -1,0 +1,22 @@
+h1 {
+  color: #42f548;
+  width: 200px;
+  border: 50px solid pink;
+}
+
+p,h3 {
+  color: red;
+  border: solid;
+}
+
+em {
+  border: solid;
+}
+
+#game-title{
+  font-size: 20px;
+}
+
+.character{
+  color: blue;
+}

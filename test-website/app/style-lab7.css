@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+a:visited {
+  color: #FF0000;
+}
+
+a:hover{
+  color: #00FF00;
+}
+
+a:active {
+  color: #0000FF;
+}
